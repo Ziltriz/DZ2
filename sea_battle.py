@@ -333,9 +333,5 @@ class Game:
         Game.loop(self)
 
 
-# pl_ship = Ship(3, [1, 1], 'vertical', 3)
-# pl_ship.dots()
-# player = Player()
-b1 = Board([], True, 4)
 b2 = Game()
 Game.start(b2)

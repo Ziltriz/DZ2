@@ -53,4 +53,4 @@ class BadPosition:
         if self.message:
             return 'BadPosition, {0}'.format(self.message)
         else:
-            return 'BadPosition has been raised'
+            return 'BadPosition has been raisede'
